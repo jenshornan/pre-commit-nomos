@@ -1,0 +1,5 @@
+- id: nomos_vet
+  name: Nomos vet
+  description: Pre-commit hook for nomos vet
+  entry: hooks/nomos-vet.sh
+  language: script

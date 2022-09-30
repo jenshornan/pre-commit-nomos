@@ -1,4 +1,4 @@
-- id: nomos_vet
+- id: nomos-vet
   name: Nomos vet
   description: Pre-commit hook for nomos vet
   entry: hooks/nomos-vet.sh
